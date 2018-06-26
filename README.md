@@ -1,2 +1,2 @@
 # Django-Org
-Personal Organization Online
+A personal organization app that lets users save notes online
